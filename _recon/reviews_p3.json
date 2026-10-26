@@ -1,0 +1,50 @@
+{
+ "Brand": "JBL",
+ "RatingSummary": {
+  "EnglishReviewCount": 0,
+  "FiveStarCount": 18,
+  "FourStarCount": 1,
+  "FrenchReviewCount": 0,
+  "KeyConsiderations": {
+   "EaseOfUse": 5.0,
+   "Quality": 5.0,
+   "Value": 5.0
+  },
+  "NotRecommendedCount": 2,
+  "OneStarCount": 0,
+  "OverallAverageScore": 4.76,
+  "OverallReviewCount": 21,
+  "ProductID": "18470223",
+  "RecommendedCount": 19,
+  "ThreeStarCount": 2,
+  "TwoStarCount": 0,
+  "UsReviewCount": 0
+ },
+ "currentPage": 3,
+ "customerRating": 4.76,
+ "customerRatingCount": 21,
+ "pageSize": 10,
+ "productId": "18470223",
+ "reviews": [
+  {
+   "ReviewSource": "CAN",
+   "comment": "[This review was collected as part of a promotion.] I bought them for my husband's birthday and he loves them!",
+   "id": "345978250",
+   "isRecommended": true,
+   "isVerifiedPurchaser": true,
+   "rating": 5,
+   "reviewerLocation": "Best Buy US",
+   "reviewerName": "DeannaW",
+   "submissionTime": "2024-05-31T22:27:01",
+   "syndicationSource": {
+    "LogoImageUrl": "https://photos-us.bazaarvoice.com/photo/2/cGhvdG86YXR0cmlidXRpb25sb2dvMg/2c286cfa-6f28-441a-8f6b-aac3d192f342",
+    "name": "bestbuy.com"
+   },
+   "title": "purchase",
+   "totalNegativeFeedbackCount": 0,
+   "totalPositiveFeedbackCount": 0
+  }
+ ],
+ "total": 21,
+ "totalPages": 3
+}

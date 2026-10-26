@@ -1,0 +1,6 @@
+Cluster,Size,Share,TopTerms,DominantIssueCategory,TopModel,ExampleReviewID
+0,167,0.167,"radio, screen, radio screen, blank, goes, display, customer, screen goes, states, radio display, replaced radio, replaced",Electrical Issue,QuantumRider,D-15334
+1,314,0.314,"radio, usb, update, tac, vehicle, program, customer, code, codes, sps, case, performed",Software Glitch,HyperFury X,D-14801
+2,66,0.066,"card, sd, sd card, radio, error, navigation, replace, scan, scan codes, replace radio, internal fault, fault",Component Failure,NebulaJet,D-15149
+3,233,0.233,"radio, xm, replaced, customer, states, programmed, customer states, internal, replaced radio, replace, replaced programmed, states radio",Electrical Issue,TurboFlare,D-14745
+4,220,0.22,"radio, camera, module, code, communication, replaced, tested, ok, inop, screen, wiring, test",Electrical Issue,HyperFury X,D-14869

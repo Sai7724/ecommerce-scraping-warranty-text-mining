@@ -1,0 +1,27 @@
+{
+  "sorts_attempted": [
+    "Most Helpful",
+    "Newest",
+    "Highest Rating",
+    "Lowest Rating"
+  ],
+  "sorts_applied": [],
+  "rendered_reviews": 0,
+  "api_reviews": 100,
+  "pages_fetched": 2,
+  "show_more_clicks": 0,
+  "captcha_events": 0,
+  "retries": 0,
+  "browser_used": true,
+  "notes": [
+    "product page rendered with Selenium",
+    "show-more control absent",
+    "sort control absent: Most Helpful",
+    "sort control absent: Newest",
+    "sort control absent: Highest Rating",
+    "sort control absent: Lowest Rating"
+  ],
+  "collected": 100,
+  "saved_to": "C:\\Users\\saira\\OneDrive\\Documents\\Projects\\HanuAi Assessment\\data\\demo_reviews_live.csv",
+  "source": "live scrape"
+}

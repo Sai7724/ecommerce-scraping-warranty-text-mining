@@ -1,0 +1,21 @@
+Column,Dtype,Role,NonNull,Missing,NonNullFraction,Unique,Sparse,Example
+Event id,str,identifier,1000,0,1.0,1000,False,D-14801
+Opened date,str,date,1000,0,1.0,397,False,9/17/2019
+CAUSAL_VERBATIM,str,text,999,1,0.999,944,False,unable to duplicate the concern at this time radio and display both working normally and no current dtcs set found multi
+CORRECTION_VERBATIM,str,text,1000,0,1.0,952,False,"waiting for techline engineering response, attempted to reprogram the radio after engineering resolved the programming e"
+CUSTOMER_VERBATIM,str,text,1000,0,1.0,990,False,Customer reports that radio and screen is intermittantly inop Inspect and advise
+BUILD_DATE,str,date,1000,0,1.0,37,False,2019-08-14T00:00:00.000Z
+BUILD_PLANT_DESC,str,categorical,1000,0,1.0,8,False,Flint
+CAUSAL_CD_DESC,str,categorical,997,3,0.997,38,False,Module/Component-No/Incorrect Communication
+COMPLAINT_CD_DESC,str,categorical,1000,0,1.0,9,False,Audio/Entertainment/Navigation - Other issues
+IN_USE_DATE,str,date,999,1,0.999,285,False,2019-09-10T00:00:00.000Z
+MAKE,str,categorical,1000,0,1.0,4,False,NovaSprint
+MODEL,str,categorical,1000,0,1.0,23,False,AeroSpecter
+MODLYR,int64,numeric,1000,0,1.0,1,False,2020
+PLANT,str,categorical,1000,0,1.0,8,False,FLT
+Trigger,str,list,5,995,0.005,2,True,['No Additional Functionality']
+Failure Component,str,list,5,995,0.005,5,True,"['Audio Unit', 'Display']"
+Failure Condition,str,list,5,995,0.005,5,True,"['Controls Irresponsive', 'Black Screen']"
+Additional Context,str,list,5,995,0.005,2,True,['No Additional Context']
+Fix Component,str,list,5,995,0.005,3,True,"['Radio', 'SPS']"
+Fix Condition,str,list,5,995,0.005,2,True,"['Replaced', 'Programmed']"
